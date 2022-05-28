@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "react-native-default-template",
+    "slug": "react-native-default-template",
+    "icon": "./assets/icon.png",
+    "version": "0.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "0",
+      "supportsTablet": true,
+      "bundleIdentifier": "react-native-default-template",
+      "infoPlist": {
+      }
+    },
+    "android": {
+      "versionCode": 0,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "react-native-default-template"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
